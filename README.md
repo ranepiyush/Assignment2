@@ -2,7 +2,7 @@
 This Web site is for an organisation **_Vecta Corporation_**. 
 >Providing Modern Solutions for your success in agile ebusiness
 
-This web site consists below four web pages:
+This web site consists of below four web pages:
 * **Index page**
 * **About _Vecta Corporation_**
 * **Solutions by _Vecta Corporation_**
